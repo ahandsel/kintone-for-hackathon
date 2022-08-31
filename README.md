@@ -8,7 +8,7 @@
 * [💪 Using your Kintone Database](#-using-your-kintone-database)
   * [3. Let's Log into Kintone](#3-lets-log-into-kintone)
   * [4. Create a Kintone Database App](#4-create-a-kintone-database-app)
-* [📺 How to Create a Kintone Database App? | Video](#-how-to-create-a-kintone-database-app--video)
+* [📺 How to Create a Kintone Database App? - Video](#-how-to-create-a-kintone-database-app---video)
 * [How to generate a Kintone API Token?](#how-to-generate-a-kintone-api-token)
 * [Where Can I Get Help?](#where-can-i-get-help)
 * [What can I build with Kintone?](#what-can-i-build-with-kintone)
@@ -58,7 +58,7 @@ To create a Database App, from the Portal screen, click the [+] button on the ri
 
 ---
 
-## 📺 How to Create a Kintone Database App? | Video
+## 📺 How to Create a Kintone Database App? - Video
 
 Check out this guide that goes over creating an example Manga Database App.
 
