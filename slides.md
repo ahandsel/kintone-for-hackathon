@@ -1,22 +1,23 @@
 ---
 theme: /
-layout: intro
+layout: image
 favicon: ./Kintone/KDP_favicon.png
-image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
+image: ./kintone_for_hackathons/Red_Background_Right.png
 download: true
 ---
 
-<div class="mb-4 absolute top-10 left-35" style="text-align: right;">
-    <div class="text-8xl text-primary-lighter text-opacity-80" style="font-weight:600;" >
-      Your Project's <light-icon icon="settings"/>
+<div class="mb-4 absolute top-10 left-58" style="text-align:right;">
+    <div class="text-8xl text-white text-opacity-100" style="font-weight:500;" >
+      Kintone <light-icon icon="settings"/>
     </div>
-    <div class="text-8xl text-white text-opacity-80" style="font-weight:600;" >
+    <div class="text-8xl text-white text-opacity-100" style="font-weight:600;" >
+      Your Project's
+    </div>
+    <div class="text-8xl text-white text-opacity-100" style="font-weight:600;" >
       Web Database
     </div>
     <div><p></p></div>
-    <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;" >
-      Intro to Kintone <light-icon icon="cloud-storm"/>
-    </span>
+
   </div>
 
 <div class="absolute bottom-5 left-12">
@@ -37,11 +38,11 @@ download: true
   </div>
   <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
     <a
-      href="https://github.com/ahandsel/Talks/blob/main/Slides_Kintone_Intro_Kids.md"
+      href="https://github.com/ahandsel/kintone-for-hackathon"
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
-      Slide's Code  <light-icon icon="brand-github" size="24px"/>
+      kintone-for-hackathon repo  <light-icon icon="brand-github" size="24px"/>
     </a>
   </div>
 </div>
@@ -51,3 +52,4 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+
