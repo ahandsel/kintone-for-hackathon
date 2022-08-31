@@ -10,6 +10,7 @@
 * [📺 How to Create a Kintone Database App? | Video](#-how-to-create-a-kintone-database-app--video)
 * [How to generate a Kintone API Token?](#how-to-generate-a-kintone-api-token)
 * [Where Can I Get Help?](#where-can-i-get-help)
+* [What can I build with Kintone?](#what-can-i-build-with-kintone)
 * [More Resources](#more-resources)
 
 ## 🚀 Getting your FREE Kintone Database
@@ -82,6 +83,12 @@ If you are stuck, post your question & code on the [Kintone Developer forum](htt
 If a Kintone mentor is available, post on the Slack workspace!
 
 We are more than happy to answer any questions or help fix any problems regarding Kintone
+
+---
+
+## What can I build with Kintone?
+
+Check out [Kintone_Builds.md](Kintone_Builds.md)
 
 ---
 
