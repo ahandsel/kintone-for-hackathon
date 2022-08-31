@@ -1,6 +1,7 @@
 # Quick Start on Using Kintone Web Database in a Hackathon Project
 
 ## Outline <!-- omit in toc -->
+* [3 Reasons to Use Kintone for your hack!](#3-reasons-to-use-kintone-for-your-hack)
 * [🚀 Getting your FREE Kintone Database](#-getting-your-free-kintone-database)
   * [1. Fill out the Kintone Developer License Registration form](#1-fill-out-the-kintone-developer-license-registration-form)
   * [2. Check your email & click `Activate Now`](#2-check-your-email--click-activate-now)
@@ -12,6 +13,11 @@
 * [Where Can I Get Help?](#where-can-i-get-help)
 * [What can I build with Kintone?](#what-can-i-build-with-kintone)
 * [More Resources](#more-resources)
+
+## 3 Reasons to Use Kintone for your hack!
+1. No servers are needed! - Ridiculously fast to build databases!
+1. Effortlessly manage database data and schema with GUI!
+1. Super simple to build JS customizations!
 
 ## 🚀 Getting your FREE Kintone Database
 
