@@ -23,7 +23,7 @@ fonts:
     </div>
     <div><br></div>
     <div class="text-7xl text-white text-opacity-100" style="font-weight:600;" >
-      Web Database
+      Web Database <light-icon icon="database"/>
     </div>
     <div><p></p></div>
 
@@ -100,8 +100,8 @@ layout: my-two-columns
 
 <br><br>
 
-<div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
-  Your Hackathon's Web Database <i class="light-icon-sitemap"></i>
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
+  Your Hackathon's Web Database <light-icon icon="sitemap"/>
 </div>
 
 ::left::
@@ -110,7 +110,7 @@ layout: my-two-columns
 
 ## Use Kintone to
 ## **store** incoming data or
-## **manage** outgoing data! <i class="light-icon-tools"></i>
+## **manage** outgoing data! <light-icon icon="tools"/>
 
 ![Kintone exchanging data from a smartphone](/kintone_for_hackathons/Kintone_DataExchange.png)
 
@@ -120,7 +120,7 @@ layout: my-two-columns
 
 ## Kintone allows you to
 ## build **Web Databases**
-## quickly & easily! <i class="light-icon-tool"></i>
+## quickly & easily! <light-icon icon="tool"/>
 
 <br>
 
@@ -137,7 +137,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Traditional Databases <i class="light-icon-mood-sad"></i>
+  Traditional Databases <light-icon icon="mood-sad"/>
   <br><br>
 </div>
 
@@ -159,7 +159,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Kintone Databases <i class="light-icon-mood-happy"></i>
+  Kintone Databases <light-icon icon="mood-happy"/>
   <br><br>
 </div>
 
@@ -181,7 +181,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Access Kintone DBs via the Browser <i class="light-icon-browser"></i>
+  Access Kintone DBs via the Browser <light-icon icon="browser"/>
   <br><br>
 </div>
 
@@ -200,7 +200,7 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Access Kintone DBs via REST API <i class="light-icon-server"></i>
+  Access Kintone DBs via REST API <light-icon icon="server"/>
   <br><br>
 </div>
 
@@ -274,7 +274,7 @@ layout: basic
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Where to get help? <i class="light-icon-help"></i>
+  Where to get help? <light-icon icon="help"/>
 </div>
 
 <br>
