@@ -23,7 +23,7 @@
 
 <script setup lang="ts">
 // Dependencies
-import { defineProps } from "vue";
+// import { defineProps } from "vue";
 
 const props = defineProps({
   sizing: {
