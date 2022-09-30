@@ -209,6 +209,8 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 -->
 
 ---
+layout: basic
+---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Get Started <i class="light-icon-bolt"></i>
