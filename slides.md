@@ -187,6 +187,7 @@ layout: my-two-columns
 * ## Create Databases <light-icon icon="database"/>
 * ## View / Add / Edit Records <light-icon icon="folders"/>
 * ## Update Database schema <light-icon icon="edit"/>
+* ## Upload JS Customizations <light-icon icon="code"/>
 
 ::right::
 
