@@ -99,13 +99,42 @@ image: ./kintone_for_hackathons/Traditional_Database.png
 equal: true
 ---
 
-# Traditional Databases
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Traditional Databases <i class="light-icon-mood-sad"></i>
+  <br><br>
+</div>
 
-* Needs **high level understanding** of databases
-* **Servers** need to be **constantly running** & maintained to be accessed
+
+#### Needs **high level understanding** of databases
+
+<br>
+
+#### **Servers** need to be **constantly running** & maintained to be accessed
 
 <!-- 
 ### Slide 3
+ -->
+
+---
+layout: image-right
+image: ./kintone_for_hackathons/Build_App_Demo.gif
+equal: true
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Kintone Databases <i class="light-icon-mood-happy"></i>
+  <br><br>
+</div>
+
+#### Databases are created with intuitive **drag-&-drop** GUI
+
+<br>
+
+#### **No servers need** to be set up by the user
+
+
+<!-- 
+### Slide 4
  -->
 
 
