@@ -84,11 +84,24 @@ layout: basic
 </table>
 
 <!--
+### Erica Butts
+* Sales Engineer at Kintone
+* Gradate student of Software Engineering at NJIT
+* Based in Brooklyn NY
+* Passionate about space and technology.
 
--->
+### Elias Bezanis
+* Sales Engineer at Kintone
+* Graduated from the University of Colorado, Boulder with a Computer Science degree in 2017.
+* Based in Chicago IL
+* Passionate about video games, cooking, & space!
+* At Kintone, I work on a daily basis with clients and prospects to implement their needs on our platform.
 
-<!--
-### Slide 1
+### Genji Fujimori
+* Developer Advocate at Kintone
+* Graduated from UC Santa Cruz
+* Based in Tokyo, JP
+* Passionate about hiking & economics!
 -->
 
 ---
