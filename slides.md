@@ -206,8 +206,32 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 -->
 
 ---
+layout: image
+image: ./Kintone/Red_Background_Right.png
+---
 
-<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="mb-4 absolute top-10 left-40" style="text-align:center;margin-right: 20px;">
+  <p><br></p>
+  <div class="text-7xl text-white text-opacity-100" style="font-weight:500;" >
+    Win the Kintone Prize! <light-icon icon="settings"/>
+  </div>
+  <div class="text-3xl text-white text-opacity-100" style="font-weight:500;" >
+    <br>
+    The team that <strong>best</strong> uses Kintone in their project wins!
+    <br><br>
+    Each member of the winning team will get the prizes!
+    <br><br>
+  </div>
+  <div class="left-48">
+    <br>
+    <img src="/kintone_for_hackathons/Prize.png" alt="Kintone Prize, Bottles, backpacks, PopSockets, & more!" style="width: 50%;display:block;margin-left: 350px;margin-right: auto;">
+  </div>
+</div>
+
+<!--
+### Slide 8
+-->
+
 ---
 layout: basic
 ---
