@@ -190,7 +190,7 @@ layout: my-two-columns
 
 ::right::
 
-![Going to YOUR_SUBDOMAIN.kintone.com](/kintone_for_hackathons/Kintone_From_Browser.png)
+![Build a Kintone App from YOUR_SUBDOMAIN.kintone.com](/kintone_for_hackathons/Kintone_From_Browser.png)
 
 <!--
 ### Slide 5
