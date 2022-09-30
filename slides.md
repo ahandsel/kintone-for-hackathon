@@ -5,12 +5,9 @@ layout: image
 image: ./Kintone/Red_Background_Right.png
 download: true
 fonts:
-  # basically the text
-  sans: 'Nunito-ExtraBold'
-  # use with `font-serif` css class from windicss
-  serif: 'Nunito Sans'
-  # for code blocks, inline code, etc.
-  mono: 'Fira Code'
+  sans: Nunito-ExtraBold
+  serif: Nunito Sans
+  mono: Fira Code
 ---
 
 <div class="mb-4 absolute top-10 left-100" style="text-align:right;">
