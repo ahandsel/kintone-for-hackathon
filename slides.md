@@ -158,6 +158,20 @@ equal: true
  -->
 
 ---
+layout: image-center
+image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Access Kintone DBs via REST API <i class="light-icon-server"></i>
+  <br><br>
+</div>
+
+<!-- 
+### Slide 6
+ -->
+
+---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Get Started <i class="light-icon-bolt"></i>
