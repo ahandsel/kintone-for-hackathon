@@ -105,3 +105,4 @@ Check out [Kintone_Builds.md](Kintone_Builds.md)
 | Get Started Guide | [kintone.dev/en/quickstart](https://kintone.dev/en/quickstart/)                            |
 | YouTube Channel   | [youtube.com/c/KintoneDeveloperProgram](https://www.youtube.com/c/KintoneDeveloperProgram) |
 | Kintone Dev Forum | [forum.kintone.dev](https://forum.kintone.dev/)                                            |
+| [slides](slides.md) | <https://ahandsel.github.io/kintone-for-hackathon/slides/> |
