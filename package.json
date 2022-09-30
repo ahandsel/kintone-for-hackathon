@@ -5,6 +5,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
+    "png": "slidev export --format png",
     "format": "slidev format"
   },
   "dependencies": {
