@@ -175,20 +175,23 @@ equal: true
 -->
 
 ---
-layout: image-right
-image: ./kintone_for_hackathons/Kintone_From_Browser.png
-equal: true
+layout: my-two-columns
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Access Kintone DBs via the Browser <light-icon icon="browser"/>
-  <br><br>
 </div>
 
-#### Use the GUI to:
-* #### Create Databases
-* #### View/Add/Edit Records
-* #### Update Database schema
+::left::
+
+# Use the GUI to:
+* ## Create Databases <light-icon icon="database"/>
+* ## View / Add / Edit Records <light-icon icon="folders"/>
+* ## Update Database schema <light-icon icon="edit"/>
+
+::right::
+
+![Going to YOUR_SUBDOMAIN.kintone.com](/kintone_for_hackathons/Kintone_From_Browser.png)
 
 <!--
 ### Slide 5
