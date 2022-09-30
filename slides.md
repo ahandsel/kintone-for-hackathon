@@ -87,6 +87,20 @@ layout: my-two-columns
  -->
 
 ---
+layout: image-left
+image: ./kintone_for_hackathons/Traditional_Database.png
+equal: true
+---
+
+# Traditional Databases
+
+* Needs **high level understanding** of databases
+* **Servers** need to be **constantly running** & maintained to be accessed
+
+<!-- 
+### Slide 3
+ -->
+
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Get Started <i class="light-icon-bolt"></i>
