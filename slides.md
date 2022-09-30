@@ -11,7 +11,7 @@ fonts:
 ---
 
 <div class="mb-4 absolute top-10 left-100" style="text-align:right;">
-    <div class="text-7xl text-white text-opacity-100" style="font-weight:500;" >
+    <div class="text-7xl text-white text-opacity-100" style="font-weight:500;user-select:all;" >
       Kintone <light-icon icon="settings"/>
     </div>
     <div><br></div>
@@ -55,7 +55,7 @@ fonts:
 layout: basic
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Hi from Kintone <light-icon icon="mood-smile"/>
   <br><br>
 </div>
@@ -146,7 +146,7 @@ image: ./kintone_for_hackathons/Traditional_Database.png
 equal: true
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Traditional Databases <light-icon icon="mood-sad"/>
   <br><br>
 </div>
@@ -168,7 +168,7 @@ image: ./kintone_for_hackathons/Build_App_Demo.gif
 equal: true
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Kintone Databases <light-icon icon="mood-happy"/>
   <br><br>
 </div>
@@ -187,7 +187,7 @@ equal: true
 layout: my-two-columns
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Access Kintone DBs via the Browser <light-icon icon="browser"/>
 </div>
 
@@ -212,7 +212,7 @@ layout: image-center
 image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Access Kintone DBs via REST API <light-icon icon="server"/>
   <br><br>
 </div>
@@ -225,7 +225,7 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 layout: basic
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Get Started <light-icon icon="bolt"/>
 </div>
 
@@ -264,10 +264,10 @@ image: ./Kintone/Red_Background_Right.png
 
 <div class="mb-4 absolute top-10 left-40" style="text-align:center;margin-right: 20px;">
   <p><br></p>
-  <div class="text-7xl text-white text-opacity-100" style="font-weight:500;" >
+  <div class="text-7xl text-white text-opacity-100" style="font-weight:500;user-select:all;" >
     Win the Kintone Prize! <light-icon icon="settings"/>
   </div>
-  <div class="text-3xl text-white text-opacity-100" style="font-weight:500;" >
+  <div class="text-3xl text-white text-opacity-100" style="font-weight:500;user-select:all;" >
     <br>
     The team that <strong>best</strong> uses Kintone in their project wins!
     <br><br>
@@ -288,7 +288,7 @@ image: ./Kintone/Red_Background_Right.png
 layout: basic
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
   Where to get help? <light-icon icon="help"/>
 </div>
 
