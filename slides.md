@@ -221,16 +221,16 @@ layout: basic
 <table style="table-layout:fixed; text-align: center;user-select:all;">
   <thead>
     <tr>
-      <th style="text-align: center;">Get Your Free Kintone Subdomain</th>
-      <th style="text-align: center;">Get Started Guide</th>
-      <th style="text-align: center;">YouTube Channel</th>
+      <th style="text-align: center;font-size:20px;">Get a Free Kintone Subdomain</th>
+      <th style="text-align: center;font-size:20px;">Get Started Guide</th>
+      <th style="text-align: center;font-size:20px;">YouTube Channel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><a href="https://bit.ly/KDP_NEW">bit.ly/KDP_NEW</a></td>
-      <td width="25%"><a href="https://bit.ly/KDP_HACK2">bit.ly/KDP_HACK2</a></td>
-      <td width="25%"><a href="https://www.youtube.com/c/KintoneDeveloperProgram">@KintoneDeveloperProgram</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://bit.ly/KDP_NEW">bit.ly/KDP_NEW</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://bit.ly/KDP_HACK2">bit.ly/KDP_HACK2</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://www.youtube.com/c/KintoneDeveloperProgram">@KintoneDeveloperProgram</a></td>
     </tr>
     <tr>
       <td><img src="/Kintone/QRCode_New_Icon.png" alt="QR Code for bit.ly/KDP_NEW"></td>
