@@ -89,9 +89,9 @@ layout: my-two-columns
 
 ![Kintone exchanging data from a smartphone](/kintone_for_hackathons/Fast_Database.png)
 
-<!-- 
+<!--
 ### Slide 2
- -->
+-->
 
 ---
 layout: image-left
@@ -111,9 +111,9 @@ equal: true
 
 #### **Servers** need to be **constantly running** & maintained to be accessed
 
-<!-- 
+<!--
 ### Slide 3
- -->
+-->
 
 ---
 layout: image-right
@@ -133,9 +133,9 @@ equal: true
 #### **No servers need** to be set up by the user
 
 
-<!-- 
+<!--
 ### Slide 4
- -->
+-->
 
 ---
 layout: image-right
@@ -153,9 +153,9 @@ equal: true
 * #### View/Add/Edit Records
 * #### Update Database schema
 
-<!-- 
+<!--
 ### Slide 5
- -->
+-->
 
 ---
 layout: image-center
@@ -167,9 +167,9 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
   <br><br>
 </div>
 
-<!-- 
+<!--
 ### Slide 6
- -->
+-->
 
 ---
 
@@ -200,6 +200,10 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
     </tr>
   </tbody>
 </table>
+
+<!--
+### Slide 6
+-->
 
 ---
 
