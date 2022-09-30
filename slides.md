@@ -64,17 +64,27 @@ layout: my-two-columns
 
 <br>
 
-## Use Kintone to **store** incoming data or **manage** outgoing data! <i class="light-icon-tools"></i>
+## Use Kintone to
+## **store** incoming data or
+## **manage** outgoing data! <i class="light-icon-tools"></i>
 
 ![Kintone exchanging data from a smartphone](/kintone_for_hackathons/Kintone_DataExchange.png)
 
 ::right::
 
-## Kintone allows you to build **Web Databases quickly & easily!** <i class="light-icon-tool"></i>
+<br>
+
+## Kintone allows you to
+## build **Web Databases**
+## quickly & easily! <i class="light-icon-tool"></i>
 
 <br>
 
 ![Kintone exchanging data from a smartphone](/kintone_for_hackathons/Fast_Database.png)
+
+<!-- 
+### Slide 2
+ -->
 
 ---
 
