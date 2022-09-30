@@ -1,7 +1,7 @@
 ---
 theme: /
-layout: image
 favicon: ./Kintone/KDP_favicon.png
+layout: image
 image: ./Kintone/Red_Background_Right.png
 download: true
 fonts:
