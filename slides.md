@@ -169,7 +169,6 @@ equal: true
 
 #### **No servers need** to be set up by the user
 
-
 <!--
 ### Slide 4
 -->
