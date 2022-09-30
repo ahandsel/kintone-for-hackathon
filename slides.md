@@ -208,31 +208,42 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+---
+layout: basic
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Where to get help? <i class="light-icon-help"></i>
 </div>
 
+<br>
+
 Here are some resources to help you use Kintone as your project's database!
+
+<br>
 
 <table style="table-layout:fixed; text-align: center;user-select:all;">
   <thead>
     <tr>
-      <th style="text-align: center;">Slack's Kintone Channel</th>
-      <th style="text-align: center;">Kintone Developer Forum</th>
-      <th style="text-align: center;">Mentor Office Hour!</th>
+      <th style="text-align: center;font-size:20px;">Slack's Kintone Channel</th>
+      <th style="text-align: center;font-size:20px;">Kintone Developer Forum</th>
+      <th style="text-align: center;font-size:20px;">Mentor Office Hour!</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><a href="https://app.slack.com/client/T03TG34FY4Q/C043601TL6L">#kintone-questions</a></td>
-      <td width="25%"><a href="https://forum.kintone.dev/">forum.kintone.dev</a></td>
-      <td width="25%"><a href="https://drive.google.com/file/d/1VTanH7NjSpea9Baay-s2hOYV_tqDsk0M/view?usp=sharing">Info slides</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://app.slack.com/client/T03TG34FY4Q/C043601TL6L">#kintone-questions</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://forum.kintone.dev/">forum.kintone.dev</a></td>
+      <td width="25%" style="font-size:20px;"><a href="https://drive.google.com/file/d/1VTanH7NjSpea9Baay-s2hOYV_tqDsk0M/view?usp=sharing">Info slides</a></td>
     </tr>
     <tr>
-      <td><img src="/kintone_for_hackathons/NASA_Hack_2022_Slack_Icon.png" alt="QR Code for blog.kintone.io"></td>
-      <td><img src="/Kintone/QRCode_Forum_Icon.png" alt="QR Code for tech.cybozu.io"></td>
-      <td style="text-align: left;">
-        <li>Sat - 1 PM Office Hour</li>
-        <li>Sun - 10 AM Office Hour</li>
+      <td><img src="/kintone_for_hackathons/NASA_Hack_2022_Slack_Icon.png" alt="Screenshot of Kintone Questions Slack Channel"></td>
+      <td><img src="/Kintone/QRCode_Forum_Icon.png" alt="QR Code for Kintone Developer Forum"></td>
+      <td style="text-align: left;font-size:30px;">
+      <p>2x Office Hour</p>
+        <li>Sat, Oct 1 - 1 PM </li>
+        <li>Sun, Oct 2 - 10 AM</li>
+        <br><br>
       </td>
     </tr>
   </tbody>
