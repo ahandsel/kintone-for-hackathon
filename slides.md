@@ -142,7 +142,7 @@ equal: true
 </div>
 
 
-#### Needs **high level understanding** of databases
+#### Needs **high-level understanding** of databases
 
 <br>
 
@@ -260,7 +260,7 @@ image: ./Kintone/Red_Background_Right.png
     <br>
     The team that <strong>best</strong> uses Kintone in their project wins!
     <br><br>
-    Each member of the winning team will get the prizes!
+    Each member of the winning team will get a prize!
     <br><br>
   </div>
   <div class="left-48">
