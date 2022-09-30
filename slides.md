@@ -137,6 +137,27 @@ equal: true
 ### Slide 4
  -->
 
+---
+layout: image-right
+image: ./kintone_for_hackathons/Kintone_From_Browser.png
+equal: true
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+  Access Kintone DBs via the Browser <i class="light-icon-browser"></i>
+  <br><br>
+</div>
+
+#### Use the GUI to:
+* #### Create Databases
+* #### View/Add/Edit Records
+* #### Update Database schema
+
+<!-- 
+### Slide 5
+ -->
+
+---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Get Started <i class="light-icon-bolt"></i>
