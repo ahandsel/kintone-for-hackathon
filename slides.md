@@ -50,6 +50,9 @@ fonts:
   </span>
 </div>
 
+<!--
+Hi everyone! Let's go over why you WANT to use Kintone as a web database for YOUR hackathon project!
+-->
 
 ---
 layout: basic
@@ -324,3 +327,7 @@ Here are some resources to help you use Kintone as your project's database!
     </tr>
   </tbody>
 </table>
+
+<!--
+Last slide
+-->
