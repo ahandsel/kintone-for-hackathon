@@ -50,7 +50,7 @@ Then you will be redirected to your Kintone Subdomain to set the initial passwor
 
 Once you create your Kintone Subdomain, it is super simple to access it.
 
-Simple go to `YOUR_SUBDOMAIN.kintone.com` with `YOUR_SUBDOMAIN` swapped with your unique Kintone Subdomain.
+Simply go to `YOUR_SUBDOMAIN.kintone.com` with `YOUR_SUBDOMAIN` swapped with your unique Kintone Subdomain.
 
 ### 4. Create a Kintone Database App
 
@@ -92,20 +92,20 @@ If you are stuck, post your question & code on the [Kintone Developer forum](htt
 
 If a Kintone mentor is available, post on the Slack workspace!
 
-We are more than happy to answer any questions or help fix any problems regarding Kintone
+We are more than happy to answer any questions or help fix any problems regarding Kintone.
 
 ---
 
 ## What can I build with Kintone?
-Here are a few projects that uses Kintone as the web database!  
+Here are a few projects that use Kintone as the web database!  
 
-### Running a easily configurable Space Invaders game on Kintone
+### Running an easily configurable Space Invaders game on Kintone
 
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vxR2YT4p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvkj9nqfkancgioqo4re.gif" alt="Gif of Space Invaders on Kintone Custom View" width="350" />
 </p>
 
-This is a phaser.io game running on Kintone. It is super easy to get started! No need to set up a node.js environment nor AWS serverless environment! You just need a code editor & Kintone account.
+This is a phaser.io game running on Kintone. It is super easy to get started! No need to set up a node.js environment or AWS serverless environment! You just need a code editor & Kintone account.
 
 Check out the tutorial on [Having Fun with Browser Games & Web databases - DEV Community 👩‍💻👨‍💻](https://dev.to/will_yama/having-fun-with-phaser-io-games-web-databases-4f08)
 
@@ -120,7 +120,7 @@ Check out the tutorial on [Having Fun with Browser Games & Web databases - DEV C
 
 [Obniz Board](https://obniz.com/products/Obnizboard/) is an IoT Microprocessor that is easily programable with JavaScript! Since Kintone supports [JavaScript customizations](https://get.kintone.help/k/en/user/app_settings/js_customize.html), it is the best web database to integrate with Obniz Board!
 
-Here is a step-by-step tutorial going over everything you need to get a Obniz Board exporting data to Kintone web database!
+Here is a step-by-step tutorial explaining everything you need to get an Obniz Board exporting data to the Kintone web database!
 
 [Setup Obniz Board as a counter & store data in Kintone Web Database all in 10 minutes! - DEV Community 👩‍💻👨‍💻](https://dev.to/ahandsel/setup-obniz-board-as-a-counter-store-data-in-kintone-web-database-all-in-10-minutes-23e)
 
@@ -130,7 +130,7 @@ Here is a step-by-step tutorial going over everything you need to get a Obniz Bo
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--P5qzxkHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/zsq260svhd13oj0km172.png" alt="Node JS on Heroku displays a result to a browser while requesting data to Kintone which responses with the data" width="350" />
 </p>
 
-In this particular example, the node.js app retrieves record data from a Kintone web database via REST API and displays it in the page of the node.js App.
+In this particular example, the node.js app retrieves record data from a Kintone web database via REST API and displays it on the page of the node.js App.
 
 Check out the tutorial on [Deploy a REST API calling node.js App to Heroku - DEV Community 👩‍💻👨‍💻](https://dev.to/will_yama/deploy-a-rest-api-calling-node-js-app-to-heroku-2mia)
 
@@ -143,13 +143,13 @@ Check out the tutorial on [Deploy a REST API calling node.js App to Heroku - DEV
   </a>
 </p>
 
-This is a recording from Kintone's React workshop series! We go over how to setup a React project and Express server to access data stored in Kintone!
+This is a recording from Kintone's React workshop series! We go over how to set up a React project and Express server to access data stored in Kintone!
 
 Code & Slides are available at this GitHub Repo:
 
 [ahandsel/React_Workshop_by_Kintone](https://github.com/ahandsel/React_Workshop_by_Kintone)
 
-Clone the codebase & follow along the video to build out the POST functionality!
+Clone the codebase & follow along with the video to build out the POST functionality!
 If you are stuck, check out the [GET_n_POST branch](https://github.com/ahandsel/React_Workshop_by_Kintone/tree/GET_n_POST) with the completed version!
 
 ---
