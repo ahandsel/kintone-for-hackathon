@@ -1,164 +1,43 @@
-# Quick Start on Using Kintone Web Database in a Hackathon Project
+# Kintone for Hackathon Repo
 
-## Outline <!-- omit in toc -->
-* [3 Reasons to Use Kintone for your hack!](#3-reasons-to-use-kintone-for-your-hack)
-* [🚀 Getting your FREE Kintone Database](#-getting-your-free-kintone-database)
-  * [1. Fill out the Kintone Developer License Registration form](#1-fill-out-the-kintone-developer-license-registration-form)
-  * [2. Check your email & click `Activate Now`](#2-check-your-email--click-activate-now)
-* [💪 Using your Kintone Database](#-using-your-kintone-database)
-  * [3. Let's Log into Kintone](#3-lets-log-into-kintone)
-  * [4. Create a Kintone Database App](#4-create-a-kintone-database-app)
-* [📺 How to Create a Kintone Database App? - Video](#-how-to-create-a-kintone-database-app---video)
-* [How to generate a Kintone API Token?](#how-to-generate-a-kintone-api-token)
-* [Where Can I Get Help?](#where-can-i-get-help)
-* [What can I build with Kintone?](#what-can-i-build-with-kintone)
-  * [Running a easily configurable Space Invaders game on Kintone](#running-a-easily-configurable-space-invaders-game-on-kintone)
-  * [Connect IoT Obniz Board to Kintone Web Database all in 10 minutes!](#connect-iot-obniz-board-to-kintone-web-database-all-in-10-minutes)
-  * [Deploy a REST API calling node.js App to Heroku](#deploy-a-rest-api-calling-nodejs-app-to-heroku)
-  * [React, REST API, & Kintone: GET & POST to a Web Database!](#react-rest-api--kintone-get--post-to-a-web-database)
-* [More Resources](#more-resources)
+## Key Files
 
-## 3 Reasons to Use Kintone for your hack!
-1. No servers are needed! - Ridiculously fast to build databases!
-1. Effortlessly manage database data and schema with GUI!
-1. Super simple to build JS customizations!
+| File                                                     | Description                                                                                                                                                                                |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [slides.md](slides.md)                                   | Intro to Kintone slide deck - [2022 NASA x Boston x Binnovative](http://www.binnovative.org/isac2022/)                                                                                     |
+| [Kintone_Hack_QuickStart.md](Kintone_Hack_QuickStart.md) | Quick start guide for using Kintone Kintone Web Database in a Hackathon Project - [Post](https://forum.kintone.dev/t/quick-start-on-using-kintone-web-database-in-a-hackathon-project/611) |
 
-## 🚀 Getting your FREE Kintone Database
+## Important Links
 
-### 1. Fill out the Kintone Developer License Registration form
-Head over to the [Developer License Registration Form](https://kintone.dev/en/developer-license-registration-form/#terms-of-service-for-the-developer-license)
-* ✅ Accept the Cookies first
-* ✅ Use Chrome & Firefox
+| Links                         | URLs                                                                                           |
+| ----------------------------- | ---------------------------------------------------------------------------------------------- |
+| Intro to Kintone slide deck 🎥 | [ahandsel.github.io/kintone-for-hackathon/](https://ahandsel.github.io/kintone-for-hackathon/) |
+| Get a Free Kintone Subdomain  | [bit.ly/KDP_NEW](https://bit.ly/KDP_NEW)                                                       |
+| Get Started Guide             | [bit.ly/KDP_HACK2](https://bit.ly/KDP_HACK2)                                                   |
+| Kintone's YouTube Channel     | [youtube.com/c/KintoneDeveloperProgram](https://www.youtube.com/c/KintoneDeveloperProgram)     |
+| Kintone's Developer Forum     | [forum.kintone.dev](https://forum.kintone.dev/)                                                |
 
-When creating your Kintone Subdomain:
-* ⚡ Only use lowercase, numbers, & hyphens in your subdomain
-* ⚠ Do not use uppercase or special characters
+## Office Hours 👨‍🏫 - 2022 NASA x Boston x Binnovative
+Kintone mentors would be attending the first & last office hours!
 
-### 2. Check your email & click `Activate Now`
+* Sat, Oct 1, 1 pm
+* Sun, Oct 2, 10 am
 
-After submitting the form, you will get a confirmation email with an `Activate Now` button.
-* Email title: `Welcome to Kintone! One More Step to Developer License`
+## Repo Usage
 
-Then you will be redirected to your Kintone Subdomain to set the initial password.
+How to open the slides locally:
 
-|                                                                                    |                                                                                                              |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![Step 1: Fill out the Kintone Developer license sign-up form](./img/SignUp-1.png) | ![Step 2: Email address will be the login name & the subdomain will be your unique link](./img/SignUp-2.png) |
+1. `git clone`
+1. `npm install`
+1. `npm run dev`
 
-## 💪 Using your Kintone Database
-### 3. Let's Log into Kintone
+* Slide deck: <http://localhost:3030/>
+* Presenter mode: <http://localhost:3030/presenter/>
 
-Once you create your Kintone Subdomain, it is super simple to access it.
+How to deploy on GitHub Pages:
 
-Simply go to `YOUR_SUBDOMAIN.kintone.com` with `YOUR_SUBDOMAIN` swapped with your unique Kintone Subdomain.
-
-### 4. Create a Kintone Database App
-
-To create a Database App, from the Portal screen, click the [+] button on the right side next to the **Apps** section.
-
-|                                                   |                                                          |
-| ------------------------------------------------- | -------------------------------------------------------- |
-| ![3. Let's Log into Kintone](./img/Explore-1.png) | ![4. Create a Kintone Database App](./img/Explore-2.png) |
-
----
-
-## 📺 How to Create a Kintone Database App? - Video
-
-Check out this guide that goes over creating an example Manga Database App.
-
-<p align="center">
-  <a href="https://youtu.be/pRtfn-8cf_I">
-    <img height="200" alt="How to Create a Kintone Database App YouTube Thumbnail"
-      src="https://img.youtube.com/vi/pRtfn-8cf_I/hqdefault.jpg">
-  </a>
-</p>
-
-## How to generate a Kintone API Token?
-
-To generate an API Token for a Kintone App:
-  1. Go to the Kintone App
-  2. Go to the Gear icon ⚙️ (top right corner) > Open the App Settings page
-  3. Click on the **App Settings** Tab > Click on **API Token** settings
-  4. Click the `Generate` button to generate a token
-  5. Click the `Save` button (top left corner) to save the token setting
-  6. Finally, click the `Update App` button (top right corner) to implement the token setting change.
-
-Confused? 🤔 → Check out the [Get the API Token](https://youtu.be/pRtfn-8cf_I?t=117) video clip 📺  
-
----
-
-## Where Can I Get Help?
-If you are stuck, post your question & code on the [Kintone Developer forum](https://forum.kintone.dev/)!
-
-If a Kintone mentor is available, post on the Slack workspace!
-
-We are more than happy to answer any questions or help fix any problems regarding Kintone.
-
----
-
-## What can I build with Kintone?
-Here are a few projects that use Kintone as the web database!  
-
-### Running an easily configurable Space Invaders game on Kintone
-
-<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vxR2YT4p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lvkj9nqfkancgioqo4re.gif" alt="Gif of Space Invaders on Kintone Custom View" width="350" />
-</p>
-
-This is a phaser.io game running on Kintone. It is super easy to get started! No need to set up a node.js environment or AWS serverless environment! You just need a code editor & Kintone account.
-
-Check out the tutorial on [Having Fun with Browser Games & Web databases - DEV Community 👩‍💻👨‍💻](https://dev.to/will_yama/having-fun-with-phaser-io-games-web-databases-4f08)
-
-### Connect IoT Obniz Board to Kintone Web Database all in 10 minutes!
-
-<p align="center">
-  <a href="https://youtu.be/sbGRnKAYzDs">
-    <img height="200" alt="Obniz Board x Kintone YouTube Thumbnail"
-      src="https://img.youtube.com/vi/sbGRnKAYzDs/hqdefault.jpg">
-  </a>
-</p>
-
-[Obniz Board](https://obniz.com/products/Obnizboard/) is an IoT Microprocessor that is easily programable with JavaScript! Since Kintone supports [JavaScript customizations](https://get.kintone.help/k/en/user/app_settings/js_customize.html), it is the best web database to integrate with Obniz Board!
-
-Here is a step-by-step tutorial explaining everything you need to get an Obniz Board exporting data to the Kintone web database!
-
-[Setup Obniz Board as a counter & store data in Kintone Web Database all in 10 minutes! - DEV Community 👩‍💻👨‍💻](https://dev.to/ahandsel/setup-obniz-board-as-a-counter-store-data-in-kintone-web-database-all-in-10-minutes-23e)
-
-### Deploy a REST API calling node.js App to Heroku
-
-<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--P5qzxkHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/zsq260svhd13oj0km172.png" alt="Node JS on Heroku displays a result to a browser while requesting data to Kintone which responses with the data" width="350" />
-</p>
-
-In this particular example, the node.js app retrieves record data from a Kintone web database via REST API and displays it on the page of the node.js app.
-
-Check out the tutorial on [Deploy a REST API calling node.js App to Heroku - DEV Community 👩‍💻👨‍💻](https://dev.to/will_yama/deploy-a-rest-api-calling-node-js-app-to-heroku-2mia)
-
-### React, REST API, & Kintone: GET & POST to a Web Database!
-
-<p align="center">
-  <a href="https://youtu.be/mCEsEXO85Oc">
-    <img height="200" alt="React & REST API: GET & POST to a Web Database! - September Workshop YouTube Thumbnail"
-      src="https://img.youtube.com/vi/mCEsEXO85Oc/hqdefault.jpg">
-  </a>
-</p>
-
-This is a recording from Kintone's React workshop series! We go over how to set up a React project and Express server to access data stored in Kintone!
-
-Code & Slides are available at this GitHub Repo:
-
-[ahandsel/React_Workshop_by_Kintone](https://github.com/ahandsel/React_Workshop_by_Kintone)
-
-Clone the codebase & follow along with the video to build out the POST functionality!
-If you are stuck, check out the [GET_n_POST branch](https://github.com/ahandsel/React_Workshop_by_Kintone/tree/GET_n_POST) with the completed version!
-
----
-
-## More Resources
-
-|                         |                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------ |
-| Get Started Guide       | [kintone.dev/en/quickstart](https://kintone.dev/en/quickstart/)                            |
-| YouTube Channel         | [youtube.com/c/KintoneDeveloperProgram](https://www.youtube.com/c/KintoneDeveloperProgram) |
-| Kintone Dev Forum       | [forum.kintone.dev](https://forum.kintone.dev/)                                            |
-| Intro to Kintone Slides | <https://ahandsel.github.io/kintone-for-hackathon/slides/>                                 |
+1. Modify [deploy.yml](.github/workflows/deploy.yml) file to use your repo name - [Sli.Dev HelpDoc](https://sli.dev/guide/hosting.html#github-pages)
+1. Commit changes to `main` branch
+1. From your GitHub Repo page: Repo `⚙️ Settings` > `Pages` > `Build and deployment` > `Branch`, select `gh-pages` and `/root`
+1. Click on `Save`!
+1. Finally, after all workflows is executed, a link to the slides should appear under Setting > Pages
