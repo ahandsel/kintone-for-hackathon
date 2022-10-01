@@ -38,7 +38,7 @@ fonts:
   </div>
   <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
     <a
-      href="https://ahandsel.github.io/kintone-for-hackathon/"
+      href="https://github.com/ahandsel/kintone-for-hackathon/"
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
