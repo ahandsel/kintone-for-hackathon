@@ -130,7 +130,7 @@ Here is a step-by-step tutorial explaining everything you need to get an Obniz B
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--P5qzxkHQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/zsq260svhd13oj0km172.png" alt="Node JS on Heroku displays a result to a browser while requesting data to Kintone which responses with the data" width="350" />
 </p>
 
-In this particular example, the node.js app retrieves record data from a Kintone web database via REST API and displays it on the page of the node.js App.
+In this particular example, the node.js app retrieves record data from a Kintone web database via REST API and displays it on the page of the node.js app.
 
 Check out the tutorial on [Deploy a REST API calling node.js App to Heroku - DEV Community 👩‍💻👨‍💻](https://dev.to/will_yama/deploy-a-rest-api-calling-node-js-app-to-heroku-2mia)
 
