@@ -42,7 +42,7 @@ fonts:
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
-      Slides  <light-icon icon="brand-github" size="24px"/>
+      Slides Repo <light-icon icon="brand-github" size="24px"/>
     </a>
   </div>
   <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
