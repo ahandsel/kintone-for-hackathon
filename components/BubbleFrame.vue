@@ -21,7 +21,7 @@
 }
 .bubble-wrap.--top-left{
   top: -100px;
-  left: -100px;
+  right: -100px;
 }
 .bubble-wrap.--bottom-left{
   bottom: -100px;

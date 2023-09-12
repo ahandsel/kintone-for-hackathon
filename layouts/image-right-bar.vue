@@ -4,7 +4,6 @@
     <div class="absolute h-full w-full" style="z-index: -10">
       <BubbleFrame v-if="!hideFrame" />
     </div>
-
     <!-- Layout -->
     <div :class="[
       'slidev-layout my-auto',
@@ -28,8 +27,6 @@
 <script setup lang="ts">
 // Dependencies
 import { computed } from "vue";
-// import { computed, defineProps } from "vue";
-
 // Utils
 import { handleBackground } from "../utils/index";
 

@@ -23,7 +23,6 @@
 <script setup lang="ts">
 // Dependencies
 import { computed } from "vue";
-// import { computed, defineProps } from "vue";
 
 // Utils
 import { handleBackground } from "../utils/index";
