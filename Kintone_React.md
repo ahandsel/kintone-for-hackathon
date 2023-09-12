@@ -21,6 +21,7 @@ Full on step-by-step guide on building out a React App using Kintone Web Databas
 ## Building a Kintone Customization with React
 
 Here is a Webpack setup to compile a React-based customization for a Kintone Database
+
 * [ahandsel/Kintone_Customization_Webpack: React x Kintone Customization Builder & Uploader](https://github.com/ahandsel/Kintone_Customization_Webpack)
 
 ### Example of React-Based Kintone Customization - Search Bar
