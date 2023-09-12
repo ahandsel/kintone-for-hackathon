@@ -1,5 +1,6 @@
 {
   "name": "kintone-for-hackathon",
+  "version": "0.0.23",
   "private": true,
   "scripts": {
     "build": "slidev build",
@@ -9,10 +10,12 @@
     "format": "slidev format"
   },
   "dependencies": {
-    "@slidev/cli": "^0.35.5",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.26.1",
-    "slidev-theme-light-icons": "^1.0.2"
+    "@slidev/cli": "^0.42.11",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@iconify-json/grommet-icons": "^1.1.7",
+    "playwright-chromium": "^1.36.2",
+    "prettier": "^3.0.3",
+    "unplugin-icons": "^0.16.6"
   }
 }
