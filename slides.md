@@ -4,7 +4,7 @@ favicon: ./kintone-graphics/KDP_favicon.png
 layout: image
 image: ./kintone-graphics/kintone-background-v2.svg
 title: Start Hacking with Kintone Web Database
-exportFilename: Slides_Hack_With_Kintone_Web_Database
+exportFilename: slides-kintone-for-hackathon
 export:
   format: pdf
   timeout: 30000
@@ -346,7 +346,7 @@ Here are some resources to help you use Kintone as your project's database!
 | ------------------------------ | ---------------------------------------------------------------------------- | ------------------------- |
 | <mdi-lifebuoy />               | [forum.kintone.dev](https://forum.kintone.dev/)                              | Post Questions            |
 | <mdi-youtube />                | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials           |
-| <mdi-human-greeting-variant /> | Ask Kintone mentors                                                          | Office Hours & Slack      |
+| <mdi-human-greeting-variant /> | Ask Kintone mentors                                                          | Office Hours & Discord    |
 
 
 ---

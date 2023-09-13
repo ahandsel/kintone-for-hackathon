@@ -90,7 +90,7 @@ Confused? 🤔 → Check out the [Get the API Token](https://youtu.be/pRtfn-8cf_
 ## Where Can I Get Help?
 If you are stuck, post your question & code on the [Kintone Developer forum](https://forum.kintone.dev/)!
 
-If a Kintone mentor is available, post on the Slack workspace!
+If a Kintone mentor is available, post on Discord!
 
 We are more than happy to answer any questions or help fix any problems regarding Kintone.
 
