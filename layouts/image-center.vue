@@ -3,7 +3,7 @@
     <div class="absolute h-full w-full" style="z-index: -10">
       <BubbleFrame v-if="!hideFrame"/>
     </div>
-    <div class="col-span-12 m-auto">
+    <div class="slidev-layout col-span-12 m-auto">
       <div class="text-center">
         <slot />
       </div>
@@ -14,7 +14,7 @@
   </div>
 </template>
 <script setup lang="ts">
-// import { defineProps } from "vue";
+
 const props = defineProps({
   image: {
     type: String,

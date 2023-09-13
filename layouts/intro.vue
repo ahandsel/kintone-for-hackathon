@@ -8,7 +8,6 @@
 </template>
 <script setup lang="ts">
 import { computed } from "vue";
-// import { computed, defineProps } from "vue";
 import { handleBackground } from "../utils";
 const props = defineProps({
   image: {

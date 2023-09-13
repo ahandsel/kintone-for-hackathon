@@ -1,24 +1,37 @@
 .slidev-layout {
+    /* @apply relative h-full text-$slidev-theme-primary; */
+
+    /* h1, h2, h3, h4, h5, h6, p, span, br, sup, sub, u, i, b, em, strong, del, ins, ruby, kbd, wbr, p, div, span, ul {
+      @apply select-all;
+    } */
+
   @apply px-14 py-10 text-[1.1rem];
 
-  h1, h2, h3, h4, p, div {
-    @apply select-none;
-  }
+  .text-primary { color: var(--slidev-theme-primary); }
+  .text-dark { color: var(--slidev-theme-dark); }
+  .text-darker { color: var(--slidev-theme-darker); }
+  .text-darkest { color: var(--slidev-theme-darkest); }
+  .text-light { color: var(--slidev-theme-light); }
+  .text-lighter { color: var(--slidev-theme-lighter); }
+  .text-lightest { color: var(--slidev-theme-lightest); }
 
   pre, code {
     @apply select-text;
   }
 
   h1 {
+    color: var(--slidev-theme-primary);
     @apply text-4xl mb-4 -ml-[0.05em];
   }
 
   h2 {
+    color: var(--slidev-theme-darker);
     @apply text-3xl;
   }
 
   h3 {
-    @apply text-sm pt-2 uppercase tracking-widest font-500 -ml-[0.05em];
+    color: var(--slidev-theme-darkest);
+    @apply text-2xl pt-2 tracking-widest font-500 -ml-[0.05em];
   }
 
   h3:not(.opacity-100) {
@@ -26,7 +39,12 @@
   }
 
   h4 {
+    color: var(--slidev-theme-darkest);
     @apply text-2xl;
+  }
+
+  h5 {
+    @apply text-sm;
   }
 
   p {
@@ -43,6 +61,10 @@
 
   ul {
     list-style: square;
+  }
+
+  ol {
+    list-style: decimal;
   }
 
   li {
