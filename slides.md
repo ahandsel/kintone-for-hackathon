@@ -17,7 +17,6 @@ monaco: dev
 remoteAssets: true
 selectable: true
 record: true
-# colorSchema: auto
 routerMode: history
 aspectRatio: 16/9
 canvasWidth: 980
@@ -101,8 +100,6 @@ hideInToc: true
   </div>
 </div>
 
-
-
 <!--
 Hi everyone! Let's go over why you WANT to use Kintone as a web database for YOUR hackathon project!
 -->
@@ -116,10 +113,12 @@ hideInToc: true
 
 <toc />
 
+
 ---
 layout: my-two-columns
 title: Hi from Kintone <mdi-hand-wave-outline/>
 ---
+
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
   Hi from Kintone <mdi-hand-wave-outline/>
   <br><br>
@@ -179,6 +178,7 @@ layout: simple
 
 <spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Resources</spam> - Ask Kintone staff for help! Lots of videos & articles to refer to!
 <br>
+
 
 ---
 layout: my-two-columns
@@ -268,6 +268,7 @@ Game specifications (number of aliens, aliens' health, etc.) are specified as Ki
 
 High scores can also be stored in Kintone.
 
+
 ---
 layout: image-right
 image: ./kintone-graphics/Example_Samurai.gif
@@ -283,6 +284,7 @@ Users are challenged to slice their enemies as quickly as possible with a samura
 * Sensor records the sword action speed
 * Kintone hosts the game, scoreboard, & IoT data
 * Doll's magnetic head falls off when the user wins
+
 
 ---
 layout: image-right-bar
@@ -306,7 +308,6 @@ Created by [Nobuyuki Furukawa](https://protopedia.net/prototyper/nobuyukifurukaw
 * The score ranking displayed information stored in the Kintone App, where scores of participants were automatically recorded via REST API after they finished playing the game.
 -->
 
-
 ---
 layout: image-right
 equal: true
@@ -327,6 +328,7 @@ Fill out the Developer License Registration form for your free Kintone Subdomain
 * 🚧 Only use lowercase, numbers, and hyphens (-) for subdomain names
 * Ex: weekend-hacker4life
 
+
 ---
 layout: image-left-bar
 image: ./kintone-graphics/Animal_3.png
@@ -345,6 +347,7 @@ Here are some resources to help you use Kintone as your project's database!
 | <mdi-lifebuoy />               | [forum.kintone.dev](https://forum.kintone.dev/)                              | Post Questions            |
 | <mdi-youtube />                | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials           |
 | <mdi-human-greeting-variant /> | Ask Kintone mentors                                                          | Office Hours & Slack      |
+
 
 ---
 layout: image-left-bar
