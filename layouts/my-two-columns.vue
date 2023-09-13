@@ -45,10 +45,10 @@ const props = defineProps({
         <slot />
       </div>
       <div class="slidev-layout two-columns w-full h-full grid grid-cols-2" style="padding-top: 0">
-        <div class="col-left" :class="props.class" style="margin-left: 1px">
+        <div class="col-left" :class="props.class" style="margin-left: 1px; padding-right: 10px; padding-left:1px">
           <slot name="left" />
         </div>
-        <div class="col-right" :class="props.class" style="margin-right: 1px">
+        <div class="col-right" :class="props.class" style="margin-right: 1px; padding-right: 1px; padding-left:10px">
           <slot name="right" />
         </div>
       </div>
