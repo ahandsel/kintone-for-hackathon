@@ -3,7 +3,7 @@
 
 ```md
 ---
-layout: two-cols
+layout: my-two-cols
 ---
 
 # Center
@@ -28,13 +28,17 @@ const props = defineProps({
   class: {
     type: String,
   },
+  hideBubbles: {
+    type: Boolean,
+    default: false,
+  }
 });
 </script>
 
 <template>
   <div class="relative h-full w-full intro grid grid-cols-12">
     <div class="absolute h-full w-full" style="z-index: -10">
-      <BubbleFrame />
+      <BubbleFrame v-if="!hideBubbles" />
     </div>
     <div class="col-span-12 m-auto">
       <div class="slidev-layout text-center" style="padding-bottom: 0">
