@@ -105,7 +105,8 @@ Hi everyone! Let's go over why you WANT to use Kintone as a web database for YOU
 -->
 
 ---
-layout: simple
+layout: image-right-bar
+image: ./kintone-graphics/Animal_6_flip.png
 hideInToc: true
 ---
 
@@ -119,7 +120,7 @@ layout: my-two-columns
 title: Hi from Kintone <mdi-hand-wave-outline/>
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-5xl text-primary dark:text-light top-1" style="font-weight:500;" >
   Hi from Kintone <mdi-hand-wave-outline/>
   <br><br>
 </div>
@@ -334,7 +335,7 @@ layout: image-left-bar
 image: ./kintone-graphics/Animal_3.png
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
+<div class="text-5xl text-primary dark:text-light top-1" style="font-weight:500;user-select:all;" >
   Where to get help?
 </div>
 
@@ -355,7 +356,7 @@ image: ./kintone-graphics/Animal_10.png
 title: Kintone Prize <mdi-trophy-variant />
 ---
 
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
+<div class="text-5xl text-primary dark:text-lightest top-1" style="font-weight:500;user-select:text;" >
   Kintone Prize <mdi-trophy-variant />
 </div>
 
