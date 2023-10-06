@@ -132,6 +132,8 @@ title: Hi from Kintone <mdi-hand-wave-outline/>
 ## Erica Butts
 ### Sales Engineering
 
+<br>
+
 <img src="/kintone-graphics/EricaButts.png" alt="Pic of Erica Butts" style="width: 60%;margin-left: auto;margin-right: auto;">
 
 </div>
@@ -142,6 +144,8 @@ title: Hi from Kintone <mdi-hand-wave-outline/>
 
 ## Genji Fujimori
 ### Developer Advocate
+
+<br>
 
 <img src="/kintone-graphics/genji-clear.png" alt="Pic of Genji Fujimori" style="width: 60%;margin-left: auto;margin-right: auto;">
 
@@ -366,7 +370,11 @@ title: Kintone Prize <mdi-trophy-variant />
 
 Every member of the winning team will get $100 gift cards and swag! <mdi-cash />
 
-#### Every team that uses Kintone will also get swag!
+<br>
+
+#### All teams that used Kintone will get swag!
+
+We want to thank all those who used Kintone in their projects!
 
 <br>
 
@@ -375,3 +383,109 @@ Every member of the winning team will get $100 gift cards and swag! <mdi-cash />
 <!--
 Last slide
 -->
+
+---
+layout: my-two-columns
+title: Kintone Prize Judging <mdi-court-hammer/>
+---
+
+<div class="text-5xl text-primary dark:text-light top-1" style="font-weight:500;" >
+  Kintone Prize Judging <mdi-court-hammer/>
+  <br><br>
+</div>
+
+::left::
+
+<div align="center">
+
+## Judge - Genji Fujimori
+
+<br>
+
+<img src="/kintone-graphics/genji-clear.png" alt="Pic of Genji Fujimori" style="width: 60%;margin-left: auto;margin-right: auto;">
+
+</div>
+
+::right::
+
+## Judging Criteria
+
+1. How well Kintone was used in the project?
+
+    * _What Kintone features were used?_
+
+2. How technically challenging the Kintone implementation was?
+
+    * _What Kintone APIs were used?_
+
+<!--
+-->
+
+---
+layout: image
+image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
+---
+
+<div class="mb-4" style="text-align: center;">
+  <div class="text-7xl text-primary text-opacity-100" style="font-weight: 600; align-items: center; text-align: center;">
+    Any Questions <mdi-help-circle-outline />
+  </div>
+</div>
+
+<div
+  class="absolute bottom-40 left-15"
+  style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  "
+>
+  <div
+    class="p-1 rounded flex justify-center items-center text-primary"
+    align="center"
+    style="flex: 1; padding-right: 20px; align-items: left;"
+  >
+    <a
+      href="https://ahandsel.github.io/kintone-for-hackathon/"
+      target="_blank"
+      alt="kintone-for-hackathon Slide Deck"
+    >
+      Slides <ri:slideshow-line />
+    </a>
+  </div>
+</div>
+<div
+  class="absolute bottom-5 left-5"
+  style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  "
+>
+  <div
+    class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center"
+    align="center"
+    style="flex: 1; padding-right: 20px; align-items: left;"
+  >
+  </div>
+  <div>
+    <a
+      href="https://ahandsel.github.io/kintone-for-hackathon/"
+      target="_blank"
+      alt="kintone-for-hackathon Slide Deck"
+    >
+      <img
+        src="/kintone-graphics/qrcode_slidedeck.png"
+        alt="QR Code for kintone-for-hackathon Slide Deck"
+        style="
+          height: 125px;
+          display: flex;
+          margin-left: auto;
+          margin-right: auto;
+        "
+      />
+    </a>
+  </div>
+</div>
