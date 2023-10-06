@@ -418,8 +418,6 @@ title: Kintone Prize Judging <mdi-court-hammer/>
 
     * _What Kintone APIs were used?_
 
-<!--
--->
 
 ---
 layout: image
