@@ -6,9 +6,9 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "pdf": "slidev export --format pdf",
-    "png": "slidev export --format png",
-    "md": "slidev export --format md",
+    "pdf": "slidev export --per-slide --format pdf",
+    "png": "slidev export --per-slide --format png",
+    "md": "slidev export --per-slide --format md",
     "format": "slidev format"
   },
   "dependencies": {
