@@ -114,7 +114,6 @@ hideInToc: true
 
 <toc />
 
-
 ---
 layout: my-two-columns
 title: Hi from Kintone <mdi-hand-wave-outline/>
@@ -122,48 +121,28 @@ title: Hi from Kintone <mdi-hand-wave-outline/>
 
 <div class="text-5xl text-primary dark:text-light top-1" style="font-weight:500;" >
   Hi from Kintone <mdi-hand-wave-outline/>
-  <br><br>
 </div>
+
+<br>
+
+# Genji Fujimori
 
 ::left::
 
 <div align="center">
 
-## Erica Butts
-### Sales Engineering
-
-<br>
-
-<img src="/kintone-graphics/EricaButts.png" alt="Pic of Erica Butts" style="width: 60%;margin-left: auto;margin-right: auto;">
+<img src="/kintone-graphics/genji-clear.png" alt="Pic of Genji Fujimori" style="width: 60%;margin-left: auto;margin-right: auto;">
 
 </div>
 
 ::right::
 
-<div align="center">
-
-## Genji Fujimori
-### Developer Advocate
-
 <br>
 
-<img src="/kintone-graphics/genji-clear.png" alt="Pic of Genji Fujimori" style="width: 60%;margin-left: auto;margin-right: auto;">
-
-</div>
-
-<!--
-### Erica Butts
-* Sales Engineer at Kintone
-* Graduate student of Software Engineering at NJIT
-* Based in Brooklyn, NY
-* Passionate about space and technology.
-
-### Genji Fujimori
-* Developer Advocate at Kintone
+* Developer Advocate and UX Writer at Kintone
 * Graduated from UC Santa Cruz
-* Based in Tokyo, JP
-* Passionate about hiking & economics!
--->
+* Based in Tokyo, Japan
+* Passionate about [hiking](https://ahandsel.github.io/Tokyo_Hiker/), economics, and Markdown!
 
 ---
 layout: simple
