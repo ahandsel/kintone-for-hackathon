@@ -33,7 +33,7 @@ fonts:
 hideInToc: true
 ---
 
-<div class="mb-4 absolute top-15 left-45" style="text-align: right">
+<div class="mb-4 top-15 left-45" style="text-align: right">
   <div class="text-7xl text-white text-opacity-100" style="font-weight: 600">
     Kintone Web Database
   </div>
@@ -172,10 +172,10 @@ layout: simple
 # Why Use Kintone in My Project? <fluent-emoji-high-contrast-thinking-face />
 
 <br>
-<spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Free</spam> - Kintone is completely free for developers. No credit card required!
+<spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Free</spam> - Kintone is entirely free for developers. No credit card is required!
 <br>
 
-<spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Easy</spam> - Easiest way to setup a web database for your project! No server to setup!
+<spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Easy</spam> - Easiest way to set up a web database for your project! No server to set up!
 <br>
 
 <spam class="text-2xl text-primary text-opacity-100" style="font-weight:600;line-height: 3">Quick</spam> - Build a web app quickly with just HTML & JS!
@@ -198,7 +198,7 @@ layout: my-two-columns
 ## Create & Configure Databases Easily
 
 * No need to set up a server
-* Simple GUI to setup the database
+* Simple GUI to set up the database
 
 <br>
 
@@ -302,7 +302,7 @@ Created by [Nobuyuki Furukawa](https://protopedia.net/prototyper/nobuyukifurukaw
 
 * A moving flowerpot that uses **Kintone as the backend** to store sensor data.
 * Sensors are attached to a [mbed microcontroller](https://os.mbed.com/handbook/mbed-Microcontrollers) & periodically send data to Kintone via Node.js.
-* Node.js checks Kintone’s sensor values over time and controls the motors of the flowerpot.
+* Node.js checks Kintone's sensor values over time and controls the motors of the flowerpot.
 * The flowerpot moves to a sunnier place.
 
 <!--
@@ -361,62 +361,49 @@ title: Kintone Prize <mdi-trophy-variant />
 ---
 
 <div class="text-5xl text-primary dark:text-lightest top-1" style="font-weight:500;user-select:text;" >
-  Kintone Prize <mdi-trophy-variant />
+  Kintone Prizes <mdi-trophy-variant />
 </div>
 
 <br>
 
-## Win the Best Use of Kintone Prize!
+#### 1st Place - WALLY Pro Portable Wall Charger
+All winning team members will get a [63w USB-C Wall Charger & 10,000 mAh battery combo](https://www.gonimble.com/products/wally-pro-63w-pd-10000-mah)!
 
-Every member of the winning team will get $100 gift cards and swag! <mdi-cash />
+#### 2nd Place - WALLY Mini Wall Charger
+All winning team members will get a [20W Dual Port USB-C & USB-A Charger](https://www.gonimble.com/products/20w-usb-c-wall-charger)!
 
-<br>
-
-#### All teams that used Kintone will get swag!
-
-We want to thank all those who used Kintone in their projects!
-
-<br>
+#### Every Kintone User - Swag
+All teams that used Kintone in their project will get swag!
 
 # <material-symbols-water-bottle /> <mdi-tennis-ball /> <mdi-pen /> <mingcute-hat-2-fill /> <mdi-tag /> <mdi-usb /> <mdi-battery-charging-high />
 
 <!--
-Last slide
+* We will be giving out prizes to the top 2 teams that use Kintone in their project!
+* All members of teams that use Kintone in their project will get swag!
+* Swag includes: water bottle, stress ball, pen, hat, & PopSocket
 -->
 
 ---
-layout: my-two-columns
-title: Kintone Prize Judging <mdi-court-hammer/>
+layout: simple
+title: Kintone Prize Judging Criteria <mdi-court-hammer/>
 ---
 
 <div class="text-5xl text-primary dark:text-light top-1" style="font-weight:500;" >
-  Kintone Prize Judging <mdi-court-hammer/>
+  Kintone Prize Judging Criteria <mdi-court-hammer/>
   <br><br>
 </div>
 
-::left::
+#### How was Kintone used in the project?
 
-<div align="center">
-
-## Judge - Genji Fujimori
+* Which Kintone features were used?
+* The more Kintone is integrated into the project, the better!
 
 <br>
 
-<img src="/kintone-graphics/genji-clear.png" alt="Pic of Genji Fujimori" style="width: 60%;margin-left: auto;margin-right: auto;">
+#### How technically challenging was the Kintone implementation?
 
-</div>
-
-::right::
-
-## Judging Criteria
-
-1. How well Kintone was used in the project?
-
-    * _What Kintone features were used?_
-
-2. How technically challenging the Kintone implementation was?
-
-    * _What Kintone APIs were used?_
+* Which Kintone APIs were used?
+* What kind of data was stored in Kintone?
 
 
 ---
