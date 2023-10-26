@@ -14,7 +14,6 @@ This repo is a collection of resources for using Kintone Web Database in a Hacka
   * [Slides - Intro to Kintone Web Database](#slides---intro-to-kintone-web-database)
   * [Quick Start Guide - How to Use Kintone Web Database in a Hackathon Project](#quick-start-guide---how-to-use-kintone-web-database-in-a-hackathon-project)
 * [Important Links](#important-links)
-* [Office Hours - 2023 NASA x Boston x Binnovative](#office-hours---2023-nasa-x-boston-x-binnovative)
 
 ## What is Kintone Web Database?
 Kintone is a no-code/low-code cloud platform for teams to quickly & easily share and collaborate on their data.
@@ -55,7 +54,3 @@ Here are some resources to get you started with Kintone Web Database.
 | Get Started Guide             | [bit.ly/KDP_HACK2](https://bit.ly/KDP_HACK2)                                                                              |
 | Kintone's YouTube Channel     | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram)                                              |
 | Kintone's Developer Forum     | [forum.kintone.dev](https://forum.kintone.dev/)                                                                           |
-
-## Office Hours - 2023 NASA x Boston x Binnovative
-
-* TBD
