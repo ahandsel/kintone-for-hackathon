@@ -36,9 +36,10 @@ Here are some resources to get you started with Kintone Web Database.
 
 ### Slides - Intro to Kintone Web Database
 
+* Slides: [ahandsel.github.io/kintone-for-hackathon/](https://ahandsel.github.io/kintone-for-hackathon/)
+* Presenter: [ahandsel.github.io/kintone-for-hackathon/presenter/](https://ahandsel.github.io/kintone-for-hackathon/presenter/)
 * Markdown: [slides-kintone-for-hackathon.md](slides-kintone-for-hackathon.md)
 * PDF: [slides-kintone-for-hackathon.pdf](slides-kintone-for-hackathon.pdf)
-* Created for the [2023 NASA x Boston x Binnovative](https://www.binnovative.org/isac2023/)!
 
 ### Quick Start Guide - How to Use Kintone Web Database in a Hackathon Project
 
