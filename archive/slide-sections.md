@@ -78,7 +78,7 @@ image: ./kintone_for_hackathons/Kintone_RESTAPI_Flow.png
 
 ---
 
-<div class="absolute bottom-5 right-12">
+<div class="bottom-5 right-12">
   <div class="p-1 rounded cursor-pointer opacity-90 flex justify-center items-center" align="center">
     <a href="https://ahandsel.github.io/kintone-for-hackathon/" target="_blank" alt="kintone-for-hackathon Slide Deck">
       Slides <ri:slideshow-line />
